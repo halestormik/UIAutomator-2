@@ -24,7 +24,7 @@ class ChangeTextTest {
 
     private lateinit var device: UiDevice
     private val textToSet = "Netology"
-    private val initialText = "Hello World!"
+    private val initialText = "Hello UiAutomator!"
 
     @Before
     fun beforeEachTest() {
